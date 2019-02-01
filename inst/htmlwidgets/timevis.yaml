@@ -1,9 +1,9 @@
 dependencies:
-  - name: timeline-plus
+  - name: vis
     version: 4.21.0
-    src: htmlwidgets/lib/timeline-plus
-    script: timeline.js
-    stylesheet: timeline.css
+    src: htmlwidgets/lib/vis-4.21.0
+    script: vis.min.js
+    stylesheet: vis.min.css
 
   - name: timeline
     version: 0.4
