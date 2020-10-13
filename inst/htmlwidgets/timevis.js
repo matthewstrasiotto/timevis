@@ -3,6 +3,8 @@
 /* timevis                                                           */
 /* Create timeline visualizations in R using htmlwidgets and vis.js  */
 /*********************************************************************/
+import { Timeline } from "vis-timeline";
+
 
 HTMLWidgets.widget({
 
