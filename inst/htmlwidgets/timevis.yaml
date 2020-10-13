@@ -1,8 +1,8 @@
 dependencies:
   - name: vis
     version: 7.3.10
-    src:  /home/matty/work/repos/vis-timeline/standalone/umd/
-    script: vis-timeline-graph2d.js
+    src: htmlwidgets/lib/vis-7.3.10
+    script: vis.min.js
     stylesheet: vis.min.css
 
   - name: timeline
