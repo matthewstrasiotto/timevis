@@ -2,8 +2,8 @@ dependencies:
   - name: vis
     version: 7.3.10
     src: htmlwidgets/lib/vis-7.3.10
-    script: vis.min.js
-    stylesheet: vis.min.css
+    script: link.vis.min.js
+    stylesheet: link.vis.min.css
 
   - name: timeline
     version: 0.4
